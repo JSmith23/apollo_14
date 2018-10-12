@@ -1,3 +1,3 @@
 class AstronautMission < ApplicationRecord
-
+  
 end
